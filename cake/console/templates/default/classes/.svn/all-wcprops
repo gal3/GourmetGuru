@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/templates/default/classes
+END
+test.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/templates/default/classes/test.ctp
+END
+model.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/templates/default/classes/model.ctp
+END
+controller.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/templates/default/classes/controller.ctp
+END
+fixture.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/templates/default/classes/fixture.ctp
+END

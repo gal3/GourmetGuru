@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/libs/tasks
+END
+db_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/libs/tasks/db_config.php
+END
+extract.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/libs/tasks/extract.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/libs/tasks/view.php
+END
+template.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/libs/tasks/template.php
+END
+plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/libs/tasks/plugin.php
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/libs/tasks/test.php
+END
+model.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/libs/tasks/model.php
+END
+bake.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/libs/tasks/bake.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/libs/tasks/controller.php
+END
+fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/libs/tasks/fixture.php
+END
+project.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CMPT470-1114-group14/!svn/ver/156/project/cake/console/libs/tasks/project.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CMPT470-1114-group14/!svn/ver/677/project/app/views/stores
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CMPT470-1114-group14/!svn/ver/677/project/app/views/stores/view.ctp
+END
+admin_edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CMPT470-1114-group14/!svn/ver/574/project/app/views/stores/admin_edit.ctp
+END
+admin_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CMPT470-1114-group14/!svn/ver/524/project/app/views/stores/admin_index.ctp
+END
+admin_add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CMPT470-1114-group14/!svn/ver/574/project/app/views/stores/admin_add.ctp
+END
+admin_view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CMPT470-1114-group14/!svn/ver/524/project/app/views/stores/admin_view.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CMPT470-1114-group14/!svn/ver/677/project/app/views/stores/edit.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CMPT470-1114-group14/!svn/ver/677/project/app/views/stores/index.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CMPT470-1114-group14/!svn/ver/677/project/app/views/stores/add.ctp
+END

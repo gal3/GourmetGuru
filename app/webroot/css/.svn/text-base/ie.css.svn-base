@@ -1,0 +1,38 @@
+#content img {
+	border: 9px #FFF solid;
+	padding: 0;
+	outline: 1px #000 solid;
+	filter:progid:DXImageTransform.Microsoft.DropShadow(color='#DDDDDD',offX='-1',offY='-1') progid:DXImageTransform.Microsoft.DropShadow(color='#DDDDDD',offX='1',offY='1');
+}
+
+.centered {
+	text-align: center
+}
+
+	.centered * {
+		text-align: left;
+	}
+	
+	#nav {
+		width: 980px;
+		margin: 1em 0 0;
+	}
+	
+	span#prevBtn a {
+		top: 120px;
+	}
+
+	span#nextBtn a {
+		top: 120px;
+	}
+	
+.actions a,
+.submit input,
+button,
+input[type='button'],
+input[type='submit'],
+.button {
+	height: 1%;
+	width: auto;
+	overflow: visible;
+}

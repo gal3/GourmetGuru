@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/CMPT470-1114-group14/!svn/ver/437/project/app/config
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CMPT470-1114-group14/!svn/ver/156/project/app/config/acl.ini.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CMPT470-1114-group14/!svn/ver/437/project/app/config/bootstrap.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/CMPT470-1114-group14/!svn/ver/285/project/app/config/routes.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CMPT470-1114-group14/!svn/ver/156/project/app/config/database.php
+END
+database.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CMPT470-1114-group14/!svn/ver/156/project/app/config/database.php.default
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/CMPT470-1114-group14/!svn/ver/163/project/app/config/core.php
+END

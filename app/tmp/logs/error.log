@@ -1,0 +1,38 @@
+2011-08-04 15:59:58 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/g/Desktop/470repo/project/app/views/owners/foods.ctp, line 18]
+2011-08-04 16:01:08 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'FoodsStore.store_id' in 'where clause'</span> in [/home/g/Desktop/470repo/project/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-04 16:01:08 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/g/Desktop/470repo/project/app/views/owners/foods.ctp, line 18]
+2011-08-04 17:23:55 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1051: Unknown table 'Food'</span> in [/home/g/Desktop/470repo/project/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-04 17:24:22 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1051: Unknown table 'Food'</span> in [/home/g/Desktop/470repo/project/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-04 17:25:10 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1051: Unknown table 'Food'</span> in [/home/g/Desktop/470repo/project/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-04 17:36:04 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'FoodsStore.store_id' in 'where clause'</span> in [/home/g/Desktop/470repo/project/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-04 17:36:04 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/g/Desktop/470repo/project/app/views/owners/foods.ctp, line 17]
+2011-08-04 17:36:05 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'FoodsStore.store_id' in 'where clause'</span> in [/home/g/Desktop/470repo/project/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-04 17:36:05 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/g/Desktop/470repo/project/app/views/owners/foods.ctp, line 17]
+2011-08-04 17:36:33 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'FoodsStore' in 'where clause'</span> in [/home/g/Desktop/470repo/project/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-04 17:36:33 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/g/Desktop/470repo/project/app/views/owners/foods.ctp, line 17]
+2011-08-04 17:36:57 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'FoodsStore.store_id' in 'where clause'</span> in [/home/g/Desktop/470repo/project/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-04 17:36:57 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/g/Desktop/470repo/project/app/views/owners/foods.ctp, line 17]
+2011-08-04 17:41:06 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'FoodsStore.store_id' in 'where clause'</span> in [/home/g/Desktop/470repo/project/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-04 17:41:06 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/g/Desktop/470repo/project/app/views/owners/foods.ctp, line 17]
+2011-08-04 17:45:14 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'conditions' in 'where clause'</span> in [/home/g/Desktop/470repo/project/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-04 17:45:14 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/g/Desktop/470repo/project/app/views/owners/foods.ctp, line 17]
+2011-08-15 13:22:45 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 22
+            [group_id] => 9
+            [first_name] => owner
+            [last_name] => owner
+            [email] => ownerowner@sfu.ca
+            [phone] => 
+            [username] => owner
+            [active] => 1
+            [created] => 2011-07-23 21:45:54
+            [modified] => 2011-07-23 21:45:54
+        )
+
+)
+
+Aco: controllers/Owners/stores in [/home/g/Desktop/470repo/project/cake/libs/controller/components/acl.php, line 273]

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/CMPT470-1114-group14/!svn/ver/912/project/app/views/customers
+END
+statistics.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CMPT470-1114-group14/!svn/ver/842/project/app/views/customers/statistics.ctp
+END
+contact.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CMPT470-1114-group14/!svn/ver/572/project/app/views/customers/contact.ctp
+END
+food_reviews.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CMPT470-1114-group14/!svn/ver/882/project/app/views/customers/food_reviews.ctp
+END
+view_comment.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CMPT470-1114-group14/!svn/ver/742/project/app/views/customers/view_comment.ctp
+END
+current_pref.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CMPT470-1114-group14/!svn/ver/795/project/app/views/customers/current_pref.ctp
+END
+order_directions.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CMPT470-1114-group14/!svn/ver/559/project/app/views/customers/order_directions.ctp
+END
+orders.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CMPT470-1114-group14/!svn/ver/779/project/app/views/customers/orders.ctp
+END
+settings.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CMPT470-1114-group14/!svn/ver/912/project/app/views/customers/settings.ctp
+END
+payment_methods.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CMPT470-1114-group14/!svn/ver/560/project/app/views/customers/payment_methods.ctp
+END
+preferences.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CMPT470-1114-group14/!svn/ver/756/project/app/views/customers/preferences.ctp
+END
+suggest_breakfast.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CMPT470-1114-group14/!svn/ver/867/project/app/views/customers/suggest_breakfast.ctp
+END
+food_reviews_new.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CMPT470-1114-group14/!svn/ver/869/project/app/views/customers/food_reviews_new.ctp
+END
+checkout.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CMPT470-1114-group14/!svn/ver/753/project/app/views/customers/checkout.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CMPT470-1114-group14/!svn/ver/856/project/app/views/customers/index.ctp
+END
+suggest_lunch.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CMPT470-1114-group14/!svn/ver/867/project/app/views/customers/suggest_lunch.ctp
+END
+suggestions.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CMPT470-1114-group14/!svn/ver/867/project/app/views/customers/suggestions.ctp
+END
+browse_all_set_menus.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CMPT470-1114-group14/!svn/ver/784/project/app/views/customers/browse_all_set_menus.ctp
+END
+achievements.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CMPT470-1114-group14/!svn/ver/843/project/app/views/customers/achievements.ctp
+END
+addresses.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CMPT470-1114-group14/!svn/ver/568/project/app/views/customers/addresses.ctp
+END
+suggest_dinner.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CMPT470-1114-group14/!svn/ver/867/project/app/views/customers/suggest_dinner.ctp
+END
+suggest_favorite.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CMPT470-1114-group14/!svn/ver/830/project/app/views/customers/suggest_favorite.ctp
+END
+checkout_confirm.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CMPT470-1114-group14/!svn/ver/753/project/app/views/customers/checkout_confirm.ctp
+END
+addresses_edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CMPT470-1114-group14/!svn/ver/872/project/app/views/customers/addresses_edit.ctp
+END
+payment_edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CMPT470-1114-group14/!svn/ver/872/project/app/views/customers/payment_edit.ctp
+END
+personal.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CMPT470-1114-group14/!svn/ver/790/project/app/views/customers/personal.ctp
+END
+addresses_add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CMPT470-1114-group14/!svn/ver/776/project/app/views/customers/addresses_add.ctp
+END
+payment_add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CMPT470-1114-group14/!svn/ver/729/project/app/views/customers/payment_add.ctp
+END
+info_action.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CMPT470-1114-group14/!svn/ver/790/project/app/views/customers/info_action.ctp
+END
